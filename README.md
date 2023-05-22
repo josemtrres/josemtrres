@@ -1,4 +1,6 @@
-![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/13eff082-79b8-4a42-9bcd-aa8f32f7fd3b/d99udtx-4f2fa504-b9fa-4100-9b4a-76cd9a1b3029.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEzZWZmMDgyLTc5YjgtNGE0Mi05YmNkLWFhOGYzMmY3ZmQzYlwvZDk5dWR0eC00ZjJmYTUwNC1iOWZhLTQxMDAtOWI0YS03NmNkOWExYjMwMjkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.YLyPA8qjh78ufgo_FB2cU6NS6tu_KxBl5bRxXarQq0M)
+<p align="center">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/047668fb-fcf5-4f67-8225-d13cc4435f67/dbip6c3-5764781f-2600-49ad-9c32-b1532b8f239f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA0NzY2OGZiLWZjZjUtNGY2Ny04MjI1LWQxM2NjNDQzNWY2N1wvZGJpcDZjMy01NzY0NzgxZi0yNjAwLTQ5YWQtOWMzMi1iMTUzMmI4ZjIzOWYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7jNlT_xp_yZnvEIBh9FVt2VbZHwMZ3rAKLR0vwblncw">
+</p>
 <h1 align="center">Hi 👋, I'm Jose Torres</h1>
 <h3 align="center">I am a backend developer and cybersecurity lover.</h3>
 <img align="right" alt="Codificación" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
