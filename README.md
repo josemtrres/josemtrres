@@ -40,4 +40,4 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
   <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josemtrres&show_icons=true&locale=en&layout=compact&theme=dark" alt="josemtrres"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josemtrres&show_icons=true&locale=en&layout=compact&theme=transparent" alt="josemtrres"/></p>
