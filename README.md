@@ -9,7 +9,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Pentester-In_Progress-blue&logo=Kali%20Linux?style=flat-square&logoColor=white"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/Developer%3A-Back_End-green?style=flat-square&logo=Visual%20Studio%20Code"> </p>
 
-- 🌱 I’m currently learning **Pentesting** using **Kali Linx**
+- 🌱 I’m currently learning **Pentesting** using **Kali Linux**
 
 - 👨‍💻 All of my projects are available at [my GitHub](https://josemtrres.github.io)
 
